@@ -7,7 +7,7 @@ Welcome to our first open-source project! Follow the steps below to add your per
 1. **Fork** this repository to your own GitHub account using the "Fork" button at the top right.
 2. **Clone** your forked repository to your computer:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/...
    ```
 3. Open the `student-profiles` folder in your favorite text editor (like VS Code).
 
